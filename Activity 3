@@ -6,15 +6,15 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-<h3>Jumbotron Class</h3>
-<div class="jumbotron">This is  Jumbotron Class</div>
-<div class="container">This is without Jumbotron Class</div>
-
-<h3>Button Using BS</h3>
-<button type="button" class="btn btn-primary">Primary</button>
-<button type="button" class="btn btn-info">Info</button>
-<button type="button" class="btn btn-success">Success</button>
-<button type="button" class="btn btn-danger">Danger</button>
-<button type="button" class="btn btn-warning">Warning</button>
+<h3>Progress Bar</h3>
+<div class="progress">
+<div class="progress-bar bg-primary" style="width:75%">75%</div>
+</div>
+<div class="progress">
+<div class="progress-bar bg-danger" style="width:55%">55%</div>
+</div>
+<div class="progress">
+<div class="progress-bar bg-warning" style="width:35%">35%</div>
+</div>
 </body>
 </html>
