@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Activity 2</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<h3>Jumbotron Class</h3>
+<div class="jumbotron">This is  Jumbotron Class</div>
+<div class="container">This is without Jumbotron Class</div>
+
+<h3>Button Using BS</h3>
+<button type="button" class="btn btn-primary">Primary</button>
+<span class="badge badge-danger">35</span>
+<button type="button" class="btn btn-info">Info</button>
+<span class="badge badge-warning">6</span>
+<button type="button" class="btn btn-success">Success</button>
+<span class="badge badge-secondary">24</span>
+<button type="button" class="btn btn-danger">Danger</button>
+<span class="badge badge-primary">30</span>
+<button type="button" class="btn btn-warning">Warning</button>
+<span class="badge badge-success">23</span>
+</body>
+</html>
