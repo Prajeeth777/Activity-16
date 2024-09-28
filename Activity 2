@@ -21,5 +21,8 @@
 <span class="badge badge-primary">30</span>
 <button type="button" class="btn btn-warning">Warning</button>
 <span class="badge badge-success">23</span>
+
+<h2>Buttons with outline</h2>
+<button type="button" class="btn btn-outline-warning">Warning</button>
 </body>
 </html>
